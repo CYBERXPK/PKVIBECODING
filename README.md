@@ -65,36 +65,6 @@ Status      : 🟢 Building in Public
 ---
 
 <!-- ══════════════════════════════════════════ -->
-<!--           LIVE PROJECTS TABLE             -->
-<!-- ══════════════════════════════════════════ -->
-
-
-</td>
-<td align="center">
-
-[![WhatsApp](https://img.shields.io/badge/🤖_GEMINI_PROMPT_PRO-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCD1V1GzzKX6FbsMN0c)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-[![WhatsApp](https://img.shields.io/badge/🇵🇰_PAK_UPDATES-Community-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LM7ElOCtkWrGsI7lnzTPHo)
-
-</td>
-<td align="center">
-
-[![WhatsApp](https://img.shields.io/badge/💬_CHAT_GROUP-Join_Now-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/J8SKPINN3SBIvK9YOj87KL)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════ -->
 <!--              TECH STACK                   -->
 <!-- ══════════════════════════════════════════ -->
 
